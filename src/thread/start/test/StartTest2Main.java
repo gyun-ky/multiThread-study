@@ -1,4 +1,4 @@
-package thread.start;
+package thread.start.test;
 
 import static util.MyLogger.*;
 
